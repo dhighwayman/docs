@@ -1,7 +1,7 @@
 # Articles and docs
 ## Microservices
-https://martinfowler.com/articles/microservices.html
+* [Martin Fowler - Microservices](https://martinfowler.com/articles/microservices.html)
 
 ## Git
-https://help.github.com/articles/splitting-a-subfolder-out-into-a-new-repository/
-https://git-scm.com/docs/git-filter-branch
+* [Github - Splitting a subfolder out into a new repository](https://help.github.com/articles/splitting-a-subfolder-out-into-a-new-repository/)
+* [Git - git-filter-branch](https://git-scm.com/docs/git-filter-branch)
