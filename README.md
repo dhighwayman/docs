@@ -13,3 +13,7 @@ https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction
 * [Github - Splitting a subfolder out into a new repository](https://help.github.com/articles/splitting-a-subfolder-out-into-a-new-repository/)
 * [Git - git-filter-branch](https://git-scm.com/docs/git-filter-branch)
 
+## Culture
+* [There is No Spotify Model](https://www.infoq.com/presentations/spotify-culture-stc)
+* [Your Agile is Dead](https://vimeo.com/145506084)
+* [Culture at Netflix](https://jobs.netflix.com/culture)
